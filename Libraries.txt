@@ -1,0 +1,1 @@
+tensorflow opencv-python scikit-learn numpy
